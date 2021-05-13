@@ -534,7 +534,6 @@
                                                 <a href="{{route('add-to-wishlist',$product->slug)}}" class="btn min"><i class="ti-heart"></i></a>
                                             </div>
                                         </form>
-                                        
                                     </div>
                                 </div>
                             </div>
